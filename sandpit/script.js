@@ -7,3 +7,6 @@ data.forEach(function(d){
 
 console.log('Sum = ' + sum);
 //outputs 'Sum = 33'
+
+console.log('Hello World!');
+//outputs 'Hello World'
